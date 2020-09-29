@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.06d611a2.chunk.css",
+    "main.js": "/portfolio/static/js/main.9a4ee3cd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9a4ee3cd.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.823564b5.chunk.js": "/portfolio/static/js/2.823564b5.chunk.js",
+    "static/js/2.823564b5.chunk.js.map": "/portfolio/static/js/2.823564b5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.af95e77d78c6df843313732e07470a74.js": "/portfolio/precache-manifest.af95e77d78c6df843313732e07470a74.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.06d611a2.chunk.css.map": "/portfolio/static/css/main.06d611a2.chunk.css.map",
+    "static/js/2.823564b5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.823564b5.chunk.js.LICENSE.txt",
+    "static/media/anonymous-text-chat.jpg": "/portfolio/static/media/anonymous-text-chat.1453114f.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.0b411e12.jpg",
+    "static/media/mini-social.jpg": "/portfolio/static/media/mini-social.96a0c5f7.jpg",
+    "static/media/radiology.jpg": "/portfolio/static/media/radiology.fa7448ac.jpg",
+    "static/media/training.jpg": "/portfolio/static/media/training.81bcc921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.823564b5.chunk.js",
+    "static/css/main.06d611a2.chunk.css",
+    "static/js/main.9a4ee3cd.chunk.js"
+  ]
+}
