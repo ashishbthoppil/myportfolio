@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2b94ed7d02dae65c9e25adc4152acb1",
+    "revision": "53fedb5b040aae13e8e8dd94920ee6cb",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "11e6fa6f1e03fa78a18f",
+    "revision": "8a9e9566601c1c23460c",
     "url": "/portfolio/static/css/main.3a3eae81.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.823564b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11e6fa6f1e03fa78a18f",
-    "url": "/portfolio/static/js/main.da776382.chunk.js"
+    "revision": "8a9e9566601c1c23460c",
+    "url": "/portfolio/static/js/main.985f8419.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
-  },
-  {
-    "revision": "1453114f769d6929538ed47f04170396",
-    "url": "/portfolio/static/media/anonymous-text-chat.1453114f.jpg"
   },
   {
     "revision": "0b411e121b1fda0f537f294007775c67",
@@ -42,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81bcc9212b1adb4bb7a8e294b8645f63",
     "url": "/portfolio/static/media/training.81bcc921.jpg"
+  },
+  {
+    "revision": "83614d3acd62bb4d82c9796c89fdbdda",
+    "url": "/portfolio/static/media/uthappizza.83614d3a.png"
   }
 ]);
