@@ -1,0 +1,68 @@
+.firstBtn{
+    border-radius:50% !important; 
+    background-color: #910062 !important;
+    color: azure;
+    height: 3em;
+    width: 3em;
+    font-size: 25px;
+    border: none;
+    position: relative;
+    /* bottom: 0px; */
+    /* right: 15.5em; */
+    /* top: 7em; */
+}
+
+.firstBtn:hover{
+    background-color: #7c0072 !important;
+    /* color : black; */
+}
+
+.jumbotron{
+    background-color: #350438;
+    border-radius: 0px;
+    width: 100%;
+    height: 1px;
+    position: sticky;
+    top:0;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+
+.progress{
+    margin-bottom: 20px;
+    height: 20px;
+    background-color:#a8a8a8;
+}
+
+.progress-bar{
+    background-color: #350438;
+    color:azure;
+}
+
+.container{
+    width: 100%;
+}
+
+.fa-linkedin{
+    color: azure;
+    background-color: #4070ff;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.fa-github{
+    color: black;
+    font-size: 20px;
+    margin-left: 1px;
+}
+
+.mail-icon{
+    margin-left: 1px;
+    color: black;
+    font-size: 18px;
+}
+
+.li-social{
+    list-style-type: none !important;
+}
